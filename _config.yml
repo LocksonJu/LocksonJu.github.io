@@ -1,12 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: Lockson
+title: Lockson | A blog theme for Lockson
+description: Lockson is a template for Lockson inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
   - template
-  - jekyll
+  - Lockson
   - theme
   - netlify
 show_hero: true
@@ -89,8 +89,8 @@ sass:
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-paginate-content
+  - Lockson-paginate
+  - Lockson-paginate-content
 
 # Exclude my node related stuff
 exclude: [
