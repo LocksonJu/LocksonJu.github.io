@@ -2,7 +2,7 @@
 date: 2023-12-11T23:48:05.000Z
 layout: post
 title: Welcome to Lockson's desktop
-subtitle: 'You keep talking , I keep shooting'
+subtitle: 'You are being watched!'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
