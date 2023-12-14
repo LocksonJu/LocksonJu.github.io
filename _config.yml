@@ -1,14 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Lockson
+title: Lockson | A blog of Lockson
+description: You are being watched!
 tags:
   - blog
   - template
-  - jekyll
+  - lockson
   - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
